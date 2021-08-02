@@ -1,5 +1,4 @@
 import {Component} from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 import {CardList} from './Components/card-lists/card-list.component';
